@@ -55,18 +55,8 @@ body {
     text-align: left;
 }
 
-.Background {
-    width: 100%;
-    margin: 0%;
-    padding: 2%;
-    border-top: 2px solid rgba(117, 117, 117, 0.3);
-    border-bottom: 2px solid rgba(117, 117, 117, 0.3);
-    background-image: radial-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-    box-sizing: border-box;
-    text-align: left;
-}
 
-#large-font { 
+#large-font {
     font-size: larger;
 }
 
@@ -75,8 +65,6 @@ body {
     width: 100%;
     margin: 2% 0%;
     padding: 0.75% 2% 2% 2%;
-    border-top: 2px solid rgba(117, 117, 117, 0.3);
-    border-bottom: 2px solid rgba(117, 117, 117, 0.3);
     background-image: radial-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0));
     box-sizing: border-box;
     text-align: left;
@@ -86,6 +74,17 @@ body {
     width: 4%;
     height: auto;
     padding: 0;
+}
+
+.education-gif {
+    width: 8%;
+    height: auto;
+    padding: 0;
+}
+
+#OSU {
+    text-align: center;
+    font-size: large;
 }
 
 .Projects-Box {
@@ -109,6 +108,7 @@ body {
     margin: 0% 1%;
     padding: 0 3% 0 0;
     background-image: radial-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    border-top: 2px solid rgba(117, 117, 117, 0.3);
     box-sizing: border-box;
     text-align: left;
 }
@@ -118,5 +118,4 @@ body {
     font-size: 85%;
     font-style: italic;
     padding-bottom: 3%;
-  }
-
+}
