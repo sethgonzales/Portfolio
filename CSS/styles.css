@@ -1,6 +1,6 @@
 body {
     background-color: rgba(236, 236, 236, 0.264);
-    background-image: radial-gradient(rgba(92, 88, 88, 0.165) 1px, rgba(236, 236, 236, 0.264) 1px);
+    background-image: radial-gradient(rgba(217, 188, 2, 0.1) 1.5px, rgba(236, 236, 236, 0.264) 1px);
     background-size: 7px 7px;
     color: black;
     font-family: sans-serif;
@@ -15,48 +15,108 @@ body {
     padding: 6% 1%;
     box-sizing: border-box;
     float: left;
+    background-image: radial-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
 }
 
 .Headshot img {
-    width: 150px;
+    width: 22%;
     height: auto;
     border-radius: 50%;
-    margin: 5% auto auto auto;
+    margin: 3% auto auto 8%;
 }
 
 .Header h1 {
-    text-align: right;
+    text-align: center;
     border: 0;
     margin: 0 1%;
     padding: 0;
 }
 
 .Header p {
-    text-align: right;
+    text-align: center;
     border: 0;
     margin: 0 1%;
     padding: 0;
 }
 
-
-.About-Me {
+.About-Me-Box {
     float: left;
-    width: 66%;
+    width: 60%;
     margin: 2% 1%;
-    border: 2px solid rgba(117, 117, 117, 0.596);
-    /*border-bottom: 2px solid rgba(187, 214, 179, 0.596);
-    border-top: 2px solid rgba(187, 214, 179, 0.596); */
-    background-color: rgba(255, 255, 255, 0.891);
-    padding: 1%;
+    padding: 0%;
     box-sizing: border-box;
+}
+
+#About-Me-Header {
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.Background {
+    width: 100%;
+    margin: 0%;
+    padding: 2%;
+    border-top: 2px solid rgba(117, 117, 117, 0.3);
+    border-bottom: 2px solid rgba(117, 117, 117, 0.3);
+    background-image: radial-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    box-sizing: border-box;
+    text-align: left;
+}
+
+#large-font { 
+    font-size: larger;
+}
+
+
+.Interests {
+    width: 100%;
+    margin: 2% 0%;
+    padding: 0.75% 2% 2% 2%;
+    border-top: 2px solid rgba(117, 117, 117, 0.3);
+    border-bottom: 2px solid rgba(117, 117, 117, 0.3);
+    background-image: radial-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.interests-gif {
+    width: 4%;
+    height: auto;
+    padding: 0;
 }
 
 .Projects-Box {
     float: left;
     width: 30%;
     margin: 2% 1%;
-    padding: 1%;
-    border: 2px solid rgba(117, 117, 117, 0.596);
-    background-color: rgba(255, 255, 255, 0.891);
+    padding: 0%;
     box-sizing: border-box;
 }
+
+#Projects-Header {
+    width: 98%;
+    margin: 0% 1%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.Project-List {
+    width: 98%;
+    margin: 0% 1%;
+    padding: 0 3% 0 0;
+    background-image: radial-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.sub-bullet {
+    margin-left: -20px;
+    font-size: 85%;
+    font-style: italic;
+    padding-bottom: 3%;
+  }
+
