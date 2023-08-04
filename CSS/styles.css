@@ -1,46 +1,38 @@
 body {
-    background-color: rgba(255, 255, 255, 0.6);
-    background-image: radial-gradient(rgba(41, 38, 38, 0.083) 0.5px, rgba(255, 255, 255, 0.6) 0.5px);
+    background-color: rgba(236, 236, 236, 0.264);
+    background-image: radial-gradient(rgba(92, 88, 88, 0.165) 1px, rgba(236, 236, 236, 0.264) 1px);
     background-size: 7px 7px;
     color: black;
+    font-family: sans-serif;
     margin-left: 15%;
     margin-right: 15%;
 }
 
 .Header {
-    margin: 1%;
-    width: 66%;
+    margin: 5%;
+    width: 50%;
     height: auto;
-    padding: 1%;
+    padding: 6% 1%;
     box-sizing: border-box;
     float: left;
 }
 
-.Headshot {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    overflow: hidden;
+.Headshot img {
+    width: 150px;
+    height: auto;
     border-radius: 50%;
+    margin: 5% auto auto auto;
 }
-
-img {
-    display: inline;
-    margin: 0 auto;
-    height: 100%;
-    width: 100%;
-}
-
 
 .Header h1 {
-    text-align: center;
+    text-align: right;
     border: 0;
     margin: 0 1%;
     padding: 0;
 }
 
 .Header p {
-    text-align: center;
+    text-align: right;
     border: 0;
     margin: 0 1%;
     padding: 0;
