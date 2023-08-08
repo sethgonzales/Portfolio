@@ -16,11 +16,11 @@ This website acts as a landing page for future employers to see Seth Gonzales' p
 
 ## Setup/Installation Requirements
 
-* Navigate to: https://github.com/sethgonzales/Portfolio.
+* Navigate to the Portfolio repository on [Github](https://github.com/sethgonzales/Portfolio).
 * Clone the code and download into a zip file. 
 * Unzip the file and navigate inside the folder.  
 * Open the index.html file in your preferred browser and begin exploring! 
-* Or, follow the GitHub Pages url: sethgonzales.github.io/Portfolio.
+* Or, open the document on [GitHub Pages](https://sethgonzales.github.io/Portfolio/).
 
 ## Known Bugs
 
@@ -52,4 +52,4 @@ SOFTWARE.
 
 ## Contact Information
 
-If you run into any issues, or would like to contribute to our code, please email: sethgonzales@gmail.com.
+If you run into any issues, or would like to contribute to our code, please email: sethgonzales157@gmail.com.
