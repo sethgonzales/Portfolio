@@ -20,7 +20,7 @@ This website acts as a landing page for future employers to see Seth Gonzales' p
 * Clone the code and download into a zip file. 
 * Unzip the file and navigate inside the folder.  
 * Open the index.html file in your preferred browser and begin exploring! 
-* Or, open the document on [GitHub Pages](https://sethgonzales.github.io/Portfolio/).
+* Or, open the website on [GitHub Pages](https://sethgonzales.github.io/Portfolio/).
 
 ## Known Bugs
 
